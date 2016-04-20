@@ -4237,4 +4237,136 @@
 [2016.04.20-08.12.33:561][407]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_37) Not registered. Aborting.
 [2016.04.20-08.12.33:591][407]LogBlueprintUserMessages: PostEditorRefresh for Blueprint 'EnemyAnimBP', cached variable property's owner is '/Game/FirstPersonBP/Blueprints/EnemyAnimBP.SKEL_EnemyAnimBP_C'
 [2016.04.20-08.12.33:593][407]BlueprintEditorCompileResults: Info [7684.55] Compile of EnemyAnimBP successful! [in 201 ms]
-[2016.04.20-08.12.33:613][407]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'EnemyAnimBP', cached variable property's owner is '/Game/FirstPersonBP/Blueprints/EnemyAnimBP.SKEL_
+[2016.04.20-08.12.33:613][407]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'EnemyAnimBP', cached variable property's owner is '/Game/FirstPersonBP/Blueprints/EnemyAnimBP.SKEL_EnemyAnimBP_C'
+[2016.04.20-08.12.41:569][347]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'EnemyAnimBP', cached variable property's owner is '/Game/FirstPersonBP/Blueprints/EnemyAnimBP.SKEL_EnemyAnimBP_C'
+[2016.04.20-08.13.52:404][705]BlueprintLog: New page: Compile EnemyAnimBP
+[2016.04.20-08.13.52:587][705]BlueprintEditorCompileResults: Info [7763.54] Compile of EnemyAnimBP successful! [in 182 ms]
+[2016.04.20-08.13.53:838][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/EnemyAnimBP" FILE="../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Blueprints/EnemyAnimBP.uasset" SILENT=true
+[2016.04.20-08.13.53:910][829]LogSavePackage: Save=67.463760ms
+[2016.04.20-08.13.53:910][829]LogSavePackage: Moving '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Saved/EnemyAnimBPBA09665E41ECC999E66E3B94BB481878.tmp' to '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Blueprints/EnemyAnimBP.uasset'
+[2016.04.20-08.13.53:913][829]LogSavePackage: Total save time: 73.208872ms
+[2016.04.20-08.13.53:913][829]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Blueprints/EnemyAnimBP.uasset
+[2016.04.20-08.14.29:754][ 86]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.04.20-08.14.39:339][228]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.04.20-08.14.48:481][183]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'EnemyAnimBP', cached variable property's owner is '/Game/FirstPersonBP/Blueprints/EnemyAnimBP.SKEL_EnemyAnimBP_C'
+[2016.04.20-08.16.45:708][362]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_40__A6522401) Not registered. Aborting.
+[2016.04.20-08.16.45:708][362]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.04.20-08.16.45:708][362]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_38) Not registered. Aborting.
+[2016.04.20-08.16.45:738][362]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/MyLevel' took 0.030
+[2016.04.20-08.16.45:744][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/EnemyAnimBP] ([1] browsable assets)...
+[2016.04.20-08.16.45:744][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/EnemyAnimBP]
+[2016.04.20-08.16.45:827][362]LogSavePackage: Save=71.612740ms
+[2016.04.20-08.16.45:827][362]LogSavePackage: Moving '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Saved/EnemyAnimBP_Auto5A8B155FB4E5954807C369E875E9DF6A6.tmp' to '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/EnemyAnimBP_Auto5.uasset'
+[2016.04.20-08.16.45:828][362]LogSavePackage: Total save time: 82.860105ms
+[2016.04.20-08.16.45:828][362]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/EnemyAnimBP_Auto5.uasset
+[2016.04.20-08.16.45:828][362]LogFileHelpers: Auto-saving content packages took 0.089
+[2016.04.20-08.17.27:233][207]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'EnemyAnimBP', cached variable property's owner is '/Game/FirstPersonBP/Blueprints/EnemyAnimBP.SKEL_EnemyAnimBP_C'
+[2016.04.20-08.17.31:199][571]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'EnemyAnimBP', cached variable property's owner is '/Game/FirstPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C'
+[2016.04.20-08.17.33:734][820]BlueprintLog: New page: Compile EnemyAnimBP
+[2016.04.20-08.17.33:924][820]LogBlueprintUserMessages: PostEditorRefresh for Blueprint 'EnemyAnimBP', cached variable property's owner is '/Game/FirstPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C'
+[2016.04.20-08.17.33:927][820]BlueprintEditorCompileResults: Info [7984.88] Compile of EnemyAnimBP successful! [in 192 ms]
+[2016.04.20-08.17.33:944][820]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'EnemyAnimBP', cached variable property's owner is '/Game/FirstPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C'
+[2016.04.20-08.17.34:985][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/EnemyAnimBP" FILE="../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Blueprints/EnemyAnimBP.uasset" SILENT=true
+[2016.04.20-08.17.35:062][918]LogSavePackage: Save=72.535233ms
+[2016.04.20-08.17.35:062][918]LogSavePackage: Moving '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Saved/EnemyAnimBP4E72CC9B44A5319EDFD4F5921D7A0484.tmp' to '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Blueprints/EnemyAnimBP.uasset'
+[2016.04.20-08.17.35:065][918]LogSavePackage: Total save time: 78.950979ms
+[2016.04.20-08.17.35:065][918]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Blueprints/EnemyAnimBP.uasset
+[2016.04.20-08.17.38:613][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2016.04.20-08.17.38:613][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.04.20-08.17.38:613][219]PIE: New page: PIE session: MyLevel (Apr 20, 2016, 12:17:38 AM)
+[2016.04.20-08.17.38:613][219]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MyLevel
+[2016.04.20-08.17.38:672][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058583s)
+[2016.04.20-08.17.38:673][219]LogAIModule: Creating AISystem for world MyLevel
+[2016.04.20-08.17.38:673][219]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2016.04.20-08.17.38:673][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MyLevel.MyLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.059999s)
+[2016.04.20-08.17.38:673][219]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_40__A6522401) Not registered. Aborting.
+[2016.04.20-08.17.38:673][219]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.04.20-08.17.38:674][219]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_39) Not registered. Aborting.
+[2016.04.20-08.17.38:712][219]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.04.20-08.17.38:719][219]LogInit: FAudioDevice initialized.
+[2016.04.20-08.17.38:756][219]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.04.20-08.17.38:766][219]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.04.20-08.17.38:766][219]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2016.04.20-04.17.38
+[2016.04.20-08.17.38:766][219]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.GameSession_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.04.20-08.17.38:767][219]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.GameNetworkManager_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.04.20-08.17.38:768][219]LogWorld: Bringing up level for play took: 0.011159
+[2016.04.20-08.17.38:771][219]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MyLevel 0.482
+[2016.04.20-08.17.38:772][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2016.04.20-08.18.01:683][482]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2016.04.20-08.18.01:728][482]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2016.04.20-08.18.01:754][482]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001AD5F8CCAE0
+[2016.04.20-08.18.09:832][227]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'EnemyAnimBP', cached variable property's owner is '/Game/FirstPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C'
+[2016.04.20-08.18.24:042][763]BlueprintLog: New page: Compile EnemyCharacter
+[2016.04.20-08.18.24:118][763]LogBlueprintUserMessages: PostEditorRefresh for Blueprint 'EnemyAnimBP', cached variable property's owner is '/Game/FirstPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C'
+[2016.04.20-08.18.24:121][763]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_40__A6522401) Not registered. Aborting.
+[2016.04.20-08.18.24:121][763]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.04.20-08.18.24:121][763]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_40) Not registered. Aborting.
+[2016.04.20-08.18.24:158][763]BlueprintEditorCompileResults: Info [8035.11] Compile of EnemyCharacter successful! [in 115 ms]
+[2016.04.20-08.18.24:839][824]LogSavePackage: Save=96.051521ms
+[2016.04.20-08.18.24:839][824]LogSavePackage: Moving '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Saved/EnemyCharacter7335F63F425660EEF0DB4794370A9D52.tmp' to '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Blueprints/EnemyCharacter.uasset'
+[2016.04.20-08.18.24:843][824]LogSavePackage: Total save time: 110.011436ms
+[2016.04.20-08.18.24:843][824]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Blueprints/EnemyCharacter.uasset
+[2016.04.20-08.18.25:571][909]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'EnemyAnimBP', cached variable property's owner is '/Game/FirstPersonBP/Blueprints/EnemyCharacter.EnemyCharacter_C'
+[2016.04.20-08.18.27:354][ 65]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.04.20-08.18.27:354][ 65]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_40__A6522401) Not registered. Aborting.
+[2016.04.20-08.18.27:354][ 65]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_41) Not registered. Aborting.
+[2016.04.20-08.18.28:412][ 65]LogSavePackage: Save=1005.156433ms
+[2016.04.20-08.18.28:412][ 65]LogSavePackage: Moving '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Saved/MyLevelA43766274422F213E50B3DB3E6327D95.tmp' to '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Maps/MyLevel.umap'
+[2016.04.20-08.18.28:416][ 65]LogSavePackage: Total save time: 1035.907686ms
+[2016.04.20-08.18.28:416][ 65]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Maps/MyLevel.umap
+[2016.04.20-08.18.29:158][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2016.04.20-08.18.29:158][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.04.20-08.18.29:158][123]PIE: New page: PIE session: MyLevel (Apr 20, 2016, 12:18:29 AM)
+[2016.04.20-08.18.29:158][123]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MyLevel
+[2016.04.20-08.18.29:211][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052005s)
+[2016.04.20-08.18.29:212][123]LogAIModule: Creating AISystem for world MyLevel
+[2016.04.20-08.18.29:212][123]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2016.04.20-08.18.29:212][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MyLevel.MyLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_MyLevel.MyLevel (0.053375s)
+[2016.04.20-08.18.29:250][123]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.04.20-08.18.29:255][123]LogInit: FAudioDevice initialized.
+[2016.04.20-08.18.29:292][123]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.04.20-08.18.29:303][123]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.04.20-08.18.29:303][123]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2016.04.20-04.18.29
+[2016.04.20-08.18.29:303][123]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.GameSession_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.04.20-08.18.29:303][123]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.GameNetworkManager_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.04.20-08.18.29:304][123]LogWorld: Bringing up level for play took: 0.011300
+[2016.04.20-08.18.29:307][123]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MyLevel 1.018
+[2016.04.20-08.18.29:308][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2016.04.20-08.18.49:941][251]LogBlueprintUserMessages: [FirstPersonCharacter_C_41] 80.0
+[2016.04.20-08.18.50:434][276]LogBlueprintUserMessages: [FirstPersonCharacter_C_41] 60.0
+[2016.04.20-08.18.50:577][283]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2015.494 Y=-1812.080 Z=258.713] for [FirstPersonProjectile_C]
+[2016.04.20-08.18.50:923][300]LogBlueprintUserMessages: [FirstPersonCharacter_C_41] 40.0
+[2016.04.20-08.18.51:422][324]LogBlueprintUserMessages: [FirstPersonCharacter_C_41] 20.0
+[2016.04.20-08.18.51:925][348]LogBlueprintUserMessages: [FirstPersonCharacter_C_41] 0.0
+[2016.04.20-08.19.11:986][469]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-197.038 Y=-1881.645 Z=308.344] for [FirstPersonProjectile_C]
+[2016.04.20-08.19.12:156][479]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-199.218 Y=-1881.215 Z=309.188] for [FirstPersonProjectile_C]
+[2016.04.20-08.19.37:986][921]LogBlueprintUserMessages: [FirstPersonCharacter_C_42] 80.0
+[2016.04.20-08.19.38:484][946]LogBlueprintUserMessages: [FirstPersonCharacter_C_42] 60.0
+[2016.04.20-08.19.38:993][972]LogBlueprintUserMessages: [FirstPersonCharacter_C_42] 40.0
+[2016.04.20-08.19.39:491][997]LogBlueprintUserMessages: [FirstPersonCharacter_C_42] 20.0
+[2016.04.20-08.19.39:978][ 21]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2088.936 Y=-1766.113 Z=247.895] for [FirstPersonProjectile_C]
+[2016.04.20-08.19.39:979][ 21]LogBlueprintUserMessages: [FirstPersonCharacter_C_42] 0.0
+[2016.04.20-08.19.41:066][ 88]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2016.04.20-08.19.41:112][ 88]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2016.04.20-08.19.41:140][ 88]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001AD478B49A0
+[2016.04.20-08.21.20:434][775]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.04.20-08.23.33:797][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/HUD" FILE="../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2016.04.20-08.23.33:848][721]LogSavePackage: Save=49.318245ms
+[2016.04.20-08.23.33:848][721]LogSavePackage: Moving '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Saved/HUD7789F9BF405026D5F40B128E2B6F4DD1.tmp' to '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Blueprints/HUD.uasset'
+[2016.04.20-08.23.33:850][721]LogSavePackage: Total save time: 51.634841ms
+[2016.04.20-08.23.33:850][721]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Content/FirstPersonBP/Blueprints/HUD.uasset
+[2016.04.20-08.29.40:236][426]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_40__A6522401) Not registered. Aborting.
+[2016.04.20-08.29.40:236][426]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.04.20-08.29.40:236][426]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_42) Not registered. Aborting.
+[2016.04.20-08.29.40:276][426]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001AD23EA4B80
+[2016.04.20-08.29.40:278][426]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001AD479F4220
+[2016.04.20-08.29.40:279][426]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001AD44361BC0
+[2016.04.20-08.29.40:281][426]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001AD1EB0DE40
+[2016.04.20-08.29.40:282][426]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001AD31943D80
+[2016.04.20-08.29.40:288][426]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/MyLevel' took 0.052
+[2016.04.20-08.29.40:294][426]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonHUD] ([1] browsable assets)...
+[2016.04.20-08.29.40:294][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonHUD]
+[2016.04.20-08.29.40:327][426]LogSavePackage: Save=24.711056ms
+[2016.04.20-08.29.40:327][426]LogSavePackage: Moving '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Saved/FirstPersonHUD_Auto6D7BB50D740DFE77C1AD5E3B493A47AA1.tmp' to '../../../../../../Users/Brad/Unreal Projects/Unreal-Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonHUD_Auto6.uasset'
+[2016.04.20-08.29.40:328][426]LogSavePackage: Total save time: 32.562628ms
+[2016.04.20-08.29.40:328][426]LogSavePackage:W
